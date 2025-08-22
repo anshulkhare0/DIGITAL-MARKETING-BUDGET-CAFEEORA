@@ -30,5 +30,5 @@ It focuses on **digital marketing budget allocation, campaign design, and analyt
 
 **Warm Regards**  
 *Anshul Khare*  
--*2312RES981*
--*IIT Patna*
+- *2312RES981*
+- *IIT Patna*
