@@ -1,7 +1,7 @@
 # Caffeora – Digital Marketing Budget Plan Project  
 
 **Project Type**: Budget Allocation & Campaign Planning  
-**Tools Used**: Canva, Google Ads Preview Tool, MS Excel  
+**Tools Used**: Canva, Google Ads Preview Tool  
 **Platform**: Google Ads, Instagram, Facebook, SEO, Email Marketing  
 **Duration**: 1-Month Marketing Plan  
 
@@ -31,5 +31,6 @@ It focuses on **digital marketing budget allocation, campaign design, and analyt
 **Warm Regards**  
 *Anshul Khare*  
 *Roll No: 2312RES981*  
-*Indian Institute of Technology Patna*  
+*IIT Patna*  
+
 
